@@ -84,13 +84,13 @@ docker compose logs -f web  # Просмотр логов в реальном в
 - **19‑21.**[Временные изменения (`git stash`)][19-21]
 - **22‑23.**[Публикация на GitHub (SSH)][22-23]
 
-[1-2]:   https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.c3gwoka18nz5
-[3-4]:   https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.vq8s70tud401
-[5]:     https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.zsjxgd1ks02
-[6-8]:   https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.zehlsb1smaqg
-[9-11]:  https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.xto2widivnmw
-[12-14]: https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.tpjzmsqfh5vb
-[15-16]: https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.kkuwk1obl861
-[17-18]: https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.smaeuquk05ha
-[19-21]: https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.80wplu5p78xn
-[22-23]: https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.3bmgxs2vse24
+[1-2]:   https://docs.google.com/document/d/e/2PACX-1vR--dEZtGafRIaOKawVLlo78XWSR_988vmo6t0-KZC67w4DtK8JKKGuFhPsXf443Za_-b8k9rT3usGd/pub#h.c3gwoka18nz5
+[3-4]:   https://docs.google.com/document/d/e/2PACX-1vR--dEZtGafRIaOKawVLlo78XWSR_988vmo6t0-KZC67w4DtK8JKKGuFhPsXf443Za_-b8k9rT3usGd/pub#h.vq8s70tud401
+[5]:     https://docs.google.com/document/d/e/2PACX-1vR--dEZtGafRIaOKawVLlo78XWSR_988vmo6t0-KZC67w4DtK8JKKGuFhPsXf443Za_-b8k9rT3usGd/pub#h.zsjxgd1ks02
+[6-8]:   https://docs.google.com/document/d/e/2PACX-1vR--dEZtGafRIaOKawVLlo78XWSR_988vmo6t0-KZC67w4DtK8JKKGuFhPsXf443Za_-b8k9rT3usGd/pub#h.zehlsb1smaqg
+[9-11]:  https://docs.google.com/document/d/e/2PACX-1vR--dEZtGafRIaOKawVLlo78XWSR_988vmo6t0-KZC67w4DtK8JKKGuFhPsXf443Za_-b8k9rT3usGd/pub#h.xto2widivnmw
+[12-14]: https://docs.google.com/document/d/e/2PACX-1vR--dEZtGafRIaOKawVLlo78XWSR_988vmo6t0-KZC67w4DtK8JKKGuFhPsXf443Za_-b8k9rT3usGd/pub#h.tpjzmsqfh5vb
+[15-16]: https://docs.google.com/document/d/e/2PACX-1vR--dEZtGafRIaOKawVLlo78XWSR_988vmo6t0-KZC67w4DtK8JKKGuFhPsXf443Za_-b8k9rT3usGd/pub#h.kkuwk1obl861
+[17-18]: https://docs.google.com/document/d/e/2PACX-1vR--dEZtGafRIaOKawVLlo78XWSR_988vmo6t0-KZC67w4DtK8JKKGuFhPsXf443Za_-b8k9rT3usGd/pub#h.smaeuquk05ha
+[19-21]: https://docs.google.com/document/d/e/2PACX-1vR--dEZtGafRIaOKawVLlo78XWSR_988vmo6t0-KZC67w4DtK8JKKGuFhPsXf443Za_-b8k9rT3usGd/pub#h.80wplu5p78xn
+[22-23]: https://docs.google.com/document/d/e/2PACX-1vR--dEZtGafRIaOKawVLlo78XWSR_988vmo6t0-KZC67w4DtK8JKKGuFhPsXf443Za_-b8k9rT3usGd/pub#h.3bmgxs2vse24
