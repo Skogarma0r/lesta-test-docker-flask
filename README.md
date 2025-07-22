@@ -73,12 +73,24 @@ docker compose logs -f web  # Просмотр логов в реальном в
 ## Содержание
 
 
-- **1‑2.**   [Создание и настройка репозитория](#https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/edit?tab=t.0)
-- **3‑4.**   [Структура проекта, заполнение каталогов файлами](#структура-проекта-заполнение-каталогов-файлами)
-- **5.**     [Настройка `.gitignore`](#настройка-gitignore)
-- **6‑8.**   [Рабочие ветки `feature/api` и `feature/ui`](#рабочие-ветки-featureapi-и-featureui)
-- **9‑14.**  [Слияние / ребейз / история](#слияние-ребейз-история)
-- **15‑16.** [Тег `v1.0.0`](#тег-v100)
-- **17‑18.** [Имитация и откат ошибочного коммита](#имитация-и-откат-ошибочного-коммита)
-- **19‑21.** [Временные изменения `git stash`](#временные-изменения-git-stash)
-- **22‑23.** [Публикация на GitHub (SSH)](#публикация-на-github-ssh)
+- **1‑2.**  [Создание и настройка репозитория][1-2]
+- **3‑4.**  [Структура проекта, заполнение каталогов файлами][3-4]
+- **5.**    [Настройка `.gitignore`, исключаем каталог от отслеживания][5]
+- **6‑8.**  [Создание рабочих веток `feature/api` и `feature/ui`][6-8]
+- **9‑11.** [Слияние ветки `feature/api` в `master` c `--no-ff`][9-11]
+- **12‑14.**[Ребейз ветки `feature/ui` относительно `master`][12-14]
+- **15‑16.**[Тег релиза `v1.0.0` с сообщением на объединённом коммите][15-16]
+- **17‑18.**[Имитация и откат ошибочного коммита][17-18]
+- **19‑21.**[Временные изменения (`git stash`)][19-21]
+- **22‑23.**[Публикация на GitHub (SSH)][22-23]
+
+[1-2]:   https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.c3gwoka18nz5
+[3-4]:   https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.vq8s70tud401
+[5]:     https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.zsjxgd1ks02
+[6-8]:   https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.zehlsb1smaqg
+[9-11]:  https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.xto2widivnmw
+[12-14]: https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.tpjzmsqfh5vb
+[15-16]: https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.kkuwk1obl861
+[17-18]: https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.smaeuquk05ha
+[19-21]: https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.80wplu5p78xn
+[22-23]: https://docs.google.com/document/d/1h2jSU0wcK0f4f2QXPoDsZ_BeDyUsI592FdFcsr2pqb8/pub#h.3bmgxs2vse24
